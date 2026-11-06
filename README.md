@@ -4,7 +4,7 @@ A responsive and modern landing page built with clean HTML and CSS.
 
 ## 🚀 Live Demo
 
-*(You can add your Netlify or GitHub Pages live link here once deployed)*
+(https://sowmi151.github.io/fathom-landing/)
 
 ## 🛠️ Technologies Used
 
